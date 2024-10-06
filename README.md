@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Thivakar 👋 | AR/VR Developer 🚀
 
-<!--
-**Thivakar101/Thivakar101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+I'm Thivakar, an innovative AR/VR developer passionate about creating immersive experiences that blend the real and virtual worlds. I specialize in building virtual reality apps for Android, interactive 3D environments, and intuitive user experiences.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Projects & Skills
+VR Applications: Crafting immersive apps that transform the way users interact with virtual environments.
+AR Development: Enhancing real-world environments through augmented reality for Android.
+Unity : Creating seamless virtual worlds with cutting-edge development tools.
+C# and Python: Writing clean, scalable code for complex AR/VR solutions.
+🚀 Recent Highlights
+🌐 Kubernetes & Docker: Leveraging containerization and orchestration for scalable AR/VR applications.
+🛠️ Tools & Technologies
+Unity
+Blender
+python
+Git, GitHub
+🎯 Let's Build Something Amazing
+I'm always open to collaboration and new challenges. Feel free to explore my projects, suggest improvements, or just say hello!
