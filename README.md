@@ -17,7 +17,7 @@ python
 Git, GitHub
 🎯 Let's Build Something Amazing
 I'm always open to collaboration and new challenges. Feel free to explore my projects, suggest improvements, or just say hello!
-<h3 align="center">A passionate AR/VR Developer from India</h3>
+
 <p align="left">
 </p>
 
