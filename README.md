@@ -1,21 +1,17 @@
 Thivakar 🚀
 AR/VR Developer | Game Developer | Backend Engineer
-🚀 Bringing Ideas to Life with Immersive Technology
+Innovative developer specializing in AR/VR, game development, and scalable backend systems. Passionate about building immersive experiences that seamlessly blend technology and creativity.
 
-I specialize in AR/VR development, game design, and backend engineering, creating seamless digital experiences that push the boundaries of innovation.
+Expertise
+AR/VR & Game Development – Creating interactive 3D experiences with Unity & Blender.
+Backend Engineering – Designing scalable systems with Python, C#, Kubernetes & Docker.
+System Architecture – Optimizing performance and deployment with containerized solutions.
+Tech Stack
+✔ Unity | Blender | Python | C#
+✔ Kubernetes | Docker | Git | GitHub
 
-💡 What I Do
-🔹 AR/VR & Game Development – Crafting immersive virtual worlds with Unity & Blender.
-🔹 Backend Engineering – Building scalable systems using Python, C#, Kubernetes & Docker.
-🔹 Interactive 3D Environments – Blending creativity with technology for intuitive user experiences.
-
-🛠 Tech Stack
-✅ Unity | Blender | Python | C#
-✅ Kubernetes | Docker | Git | GitHub
-
-🎯 Let’s Build Something Amazing!
-Open to collaborations, new challenges, and exciting projects. Let’s create the future—together! 🚀ay hello!
-
+Let’s Collaborate
+Always open to new challenges and innovative projects. Let’s build the future of digital experiences! 🚀
 <p align="left">
 </p>
 
