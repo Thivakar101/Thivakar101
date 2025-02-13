@@ -60,7 +60,7 @@
 ![GIF](https://github.com/Thivakar101/Thivakar101/blob/main/download%20(1).gif)
 
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
