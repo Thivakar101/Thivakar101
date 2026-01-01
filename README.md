@@ -3,9 +3,13 @@
     <td>
       <h2> About Me:</h2>
       <p>
-        Thivakar  AR/VR Developer | Game Developer | Backend Engineer
+        Thivakar  CS Undergrad | Software Developer | Hobby game dev and 3d Artist |Machine Learning & AI Engineer | Unity | AR/VR Developer
         <br><br>
-        Innovative developer specializing in AR/VR, game development, and scalable backend systems. Passionate about building immersive experiences that seamlessly blend technology and creativity. Experienced in designing interactive 3D environments, optimizing system architecture, and developing high-performance applications.
+        I’m a detail-oriented engineer with a strong foundation in software development, systems design, and applied research. I focus on building scalable, data-driven solutions with an emphasis on reliability and thoughtful design.
+
+I enjoy designing efficient, production-ready systems and exploring emerging technologies through hands-on experimentation. Much of my work centers on bridging theoretical concepts with practical, real-world implementation.
+
+Alongside core engineering, I have experience in immersive development, combining creative problem-solving with technical depth to deliver innovative solutions. Always curious, always building, and consistently pushing ideas from concept to execution.
         <br><br>
         <b>Let’s Collaborate</b><br>
         Always open to new challenges and innovative projects. Let’s build the future of digital experiences! 
