@@ -12,7 +12,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github.com/Thivakar101/Thivakar101/blob/main/Yui Hirasawa.jpeg" width="1000">
+      
     </td>
   </tr>
 </table>
