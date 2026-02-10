@@ -11,9 +11,6 @@
         Always open to new challenges and innovative projects. Let’s build the future of digital experiences! 
       </p>
     </td>
-    <td>
-      
-    </td>
   </tr>
 </table>
 
