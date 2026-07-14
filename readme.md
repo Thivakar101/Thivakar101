@@ -12,22 +12,8 @@
       </p>
     </td>
   </tr>
-  <p align="center">
+  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thivakar-t&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thivakar-t&theme=tokyonight&row=1&column=6"/>
-
-</p>
-</table>
 
 ##  Socials:
 
