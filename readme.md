@@ -3,7 +3,7 @@
     <td>
       <h2> About Me:</h2>
       <p>
-        Thivakar  CS Undergrad | Software Developer | Hobby game dev and 3d Artist |Machine Learning & AI Engineer | Unity | AR/VR Developer
+        Thivakar  CS Undergrad | Software Developer | Hobby game dev and 3d Artist |Machine Learning & AI Engineer |
         <br><br>
         I’m a detail-oriented engineer with a strong foundation in software development, systems design, and applied research. I focus on building scalable, data-driven solutions with an emphasis on reliability and thoughtful design.Alongside core engineering, I have experience in immersive development, combining creative problem-solving with technical depth to deliver innovative solutions. Always curious, always building, and consistently pushing ideas from concept to execution.
         <br><br>
