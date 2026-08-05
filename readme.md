@@ -51,11 +51,3 @@ I enjoy designing dependable software, exploring new technologies, and turning t
   <a href="https://github.com/Thivakar101"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/thivakar-t/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-<p align="center">
-  <i>Build with curiosity. Ship with purpose.</i>
-</p>
-
-<p align="center">
-  <sub>Minimal line art from <a href="https://phosphoricons.com/">Phosphor Icons</a> via <a href="https://iconify.design/">Iconify</a>.</sub>
-</p>
