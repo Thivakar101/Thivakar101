@@ -20,23 +20,11 @@ I enjoy designing dependable software, exploring new technologies, and turning t
 
 <br clear="left" />
 
----
-
 <h2 align="center">Skills</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,spring,flask,mysql,postgres,docker,kubernetes,git,github,linux,bash,opencv,blender,unity&theme=dark&perline=8" alt="Technology skills" />
 </p>
-
-<p align="center">
-  <code>AI / ML</code>&nbsp;&nbsp;
-  <code>Computer Vision</code>&nbsp;&nbsp;
-  <code>REST APIs</code>&nbsp;&nbsp;
-  <code>3D Workflows</code>
-</p>
-
----
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
