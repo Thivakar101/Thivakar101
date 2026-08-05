@@ -15,9 +15,7 @@
 <img align="left" width="110" src="https://api.iconify.design/ph/brain.svg?color=%23c9d1d9" alt="Brain line-art sticker" />
 
 I'm **Thivakar**, an AI-focused software developer interested in intelligent systems, application security, computer vision, and 3D automation.
-
 I enjoy designing dependable software, exploring new technologies, and turning technical ideas into practical solutions.
-
 <br clear="left" />
 
 <h2 align="center">Skills</h2>
@@ -37,5 +35,5 @@ I enjoy designing dependable software, exploring new technologies, and turning t
 
 <p align="center">
   <a href="https://github.com/Thivakar101"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/thivakar-t/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/thivakar-t-1a5809278/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
