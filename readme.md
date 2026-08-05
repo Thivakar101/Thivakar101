@@ -37,10 +37,10 @@ I enjoy designing dependable software, exploring new technologies, and turning t
 
 ---
 
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img width="96%" src="https://ghchart.rshah.org/c9d1d9/Thivakar101" alt="Thivakar's GitHub contribution graph" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Thivakar101&cc=0d1117&tc=ffffff&ic=c9d1d9&bc=0d1117" alt="Thivakar's GitHub statistics" />
 </p>
 
 ---
