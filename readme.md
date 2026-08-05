@@ -11,7 +11,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Thivakar — Software, AI, Game Development and 3D Art"/>
+  <img src="./assets/banner.png" width="100%" alt="Yui Hirasawa.jpeg"/>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ A localized intelligent assistant with persona modelling, memory retrieval and d
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Thivakar101">
     <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/thivakar-t/">
