@@ -11,13 +11,6 @@
 <br />
 
 <h2 align="center">About Me</h2>
-
-<img align="left" width="110" src="https://api.iconify.design/ph/brain.svg?color=%23c9d1d9" alt="Brain line-art sticker" />
-
-I'm **Thivakar**, an AI-focused software developer interested in intelligent systems, application security, computer vision, and 3D automation.
-I enjoy designing dependable software, exploring new technologies, and turning technical ideas into practical solutions.
-<br clear="left" />
-
 <h2 align="center">Skills</h2>
 
 <p align="center">
